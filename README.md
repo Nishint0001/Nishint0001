@@ -1,18 +1,30 @@
-# Hi, I'm Nishint 👋
+# 👋 Hi, I'm Nishint Goyal
 
-I'm a backend developer passionate about microservices, Spring Boot, and scalable architecture.
-
-- 🔭 I’m currently working on: E-Commerce Microservices Project
-- 🌱 Learning: Kafka, Kubernetes, and system design
-- 💬 Ask me about: Java, Spring Cloud, and REST APIs
-- 📫 Reach me at: [your email or LinkedIn]
-- ⚡ Fun fact: I love debugging more than coding 😄
-
-## 🛠️ Tech Stack
-- Java, Spring Boot
-- PostgreSQL, MongoDB
-- Docker, Eureka, Gateway, Feign
+🎯 A passionate Java developer working with **Spring Boot**, specializing in **monolithic** and **microservice** architectures.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishintgoyal&show_icons=true&theme=radical)
+## 🚀 Tech Stack
+- 💻 Core: **Java**, **Spring Boot**
+- 🧱 Architecture: **Monolithic**, **Microservices**
+- ☁️ Tools & Platforms: **Maven**, **Docker**, **Eureka**, **Spring Cloud Gateway**
+- 🛠️ Currently learning: **Kubernetes**, **CI/CD Pipelines**, **Kafka**
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nishint0001&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nishint0001&theme=radical" width="48%" />
+</p>
+
+---
+
+## 📫 Let's Connect
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)
+- 📬 Email: your.email@example.com
+
+---
+
+<!-- Add a cool quote or your motto if you like -->
+_“Code with purpose, build with passion.”_
