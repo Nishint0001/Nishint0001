@@ -1,30 +1,61 @@
-<h1 align="center">Hi 👋, I'm Nishint Goyal</h1>
-<h3 align="center">Passionate about Java | Skilled in Spring Boot & Microservices</h3>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00C4B4&center=true&vCenter=true&width=600&lines=Hello+%F0%9F%91%8B%2C+I'm+Nishint+Goyal;Passionate+Java+Developer;Spring+Boot+%26+Microservices+Enthusiast" alt="Typing SVG" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nishint0001&label=Profile%20views&color=0e75b6&style=flat" alt="nishint0001" /> </p>
+<br>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nishint0001" alt="nishint0001" /></a> </p>
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=nishint0001&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=nishint0001&theme=onedark&no-frame=true&margin-w=15" alt="Trophies" />
+  </a>
+</div>
 
-- 🔭 I’m currently working on [UberXBackend](https://github.com/Nishint0001/UberXBackend)
+---
 
-- 🌱 I’m currently learning **Advanced Spring Boot**
+### 🚀 About Me
 
-- 💬 Ask me about **Java and Spring Boot**
+I'm a **Java enthusiast** with a knack for building scalable **microservices** using **Spring Boot**. I love crafting clean, efficient code and exploring the endless possibilities of backend development. Currently, I'm diving deeper into **Advanced Spring Boot** to architect robust systems.
 
-- 📫 How to reach me **Nishintgoyal001@gmail.com**
+- 🔭 Working on: **[UberXBackend](https://github.com/Nishint0001/UberXBackend)** – A microservices-based ride-sharing backend.
+- 🌱 Learning: **Advanced Spring Boot**, distributed systems, and cloud-native architectures.
+- 💬 Ask me about: **Java**, **Spring Boot**, or anything backend-related!
+- 📫 Reach me: **[Nishintgoyal001@gmail.com](mailto:Nishintgoyal001@gmail.com)**
+- ⚡ Fun fact: Did you know the number of unique chess games exceeds the atoms in the universe? ♟️
 
-- ⚡ Fun fact **The number of possible unique chess games is more than the number of atoms in the observable universe. Mind-blowing, right?**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/nishintgoyal/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/nishintgoyal/" height="30" width="40" /></a>
-</p>
+### 🌐 Connect with Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+<div align="center">
+  <a href="https://www.linkedin.com/in/nishintgoyal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nishint0001&show_icons=true&locale=en&layout=compact" alt="nishint0001" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nishint0001&show_icons=true&locale=en" alt="nishint0001" /></p>
+### 🛠️ Tech Stack
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nishint0001&" alt="nishint0001" /></p>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgresql,redis,aws,gcp,docker,git" alt="Tech Stack" />
+</div>
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishint0001&show_icons=true&theme=radical&hide_border=true&locale=en" alt="GitHub Stats" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nishint0001&show_icons=true&theme=radical&hide_border=true&locale=en&layout=compact" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishint0001&theme=radical&hide_border=true" alt="Streak Stats" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="100" alt="Coding GIF" />
+  <p><i>"Code is like poetry; it’s all about expressing complex ideas simply."</i></p>
+</div>
