@@ -1,15 +1,15 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0A0E2B,100:6B7280&height=250&section=header&text=Nishint%20Goyal&fontSize=90&fontColor=B4C4FF&animation=twinkling&fontAlignY=45&font=Orbitron" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0A0E2B,100:6B7280&height=250§ion=header&text=Nishint%20Goyal&fontSize=90&fontColor=B4C4FF&animation=twinkling&fontAlignY=45&font=Orbitron" alt="Header Banner" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=32&duration=3000&pause=500&color=B4C4FF&center=true&vCenter=true&width=700&lines=Java+Cosmonaut+%F0%9F%9A%80;Spring+Boot+Stellar+Architect;Microservices+Galactic+Innovator;Building+the+Universe+of+Backend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=32&duration=3000&pause=500&color=B4C4FF¢er=true&vCenter=true&width=700&lines=Java+Cosmonaut+%F0%9F%9A%80;Spring+Boot+Stellar+Architect;Microservices+Galactic+Innovator;Building+the+Universe+of+Backend" alt="Typing SVG" />
 </div>
 
 <br>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Profile%20Views-0A0E2B?style=flat-square&labelColor=0A0E2B&color=6B7280" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=nishint0001&label=Profile%20Views&color=6B7280&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
@@ -80,5 +80,5 @@ Greetings, interstellar traveler! I'm **Nishint Goyal**, a **Java pioneer** and 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0A0E2B,100:6B7280&height=160&section=footer&animation=twinkling" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0A0E2B,100:6B7280&height=160§ion=footer&animation=twinkling" alt="Footer Banner" />
 </div>
