@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0A0E2B,100:6B7280&height=250§ion=header&text=Nishint%20Goyal&fontSize=90&fontColor=B4C4FF&animation=twinkling&fontAlignY=45&font=Orbitron" alt="Header Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0A0E2B,100:6B7280&height=250&section=header&text=Nishint%20Goyal&fontSize=90&fontColor=B4C4FF&animation=twinkling&fontAlignY=45&font=Orbitron" alt="Header Banner" />
 </div>
 
 <div align="center">
-  <img src="https://svg-readme-typing.vercel.app/api?font=Space+Mono&size=32&duration=3000&pause=500&color=B4C4FF¢er=true&vCenter=true&width=700&lines=Java+Cosmonaut+%F0%9F%9A%80;Spring+Boot+Stellar+Architect;Microservices+Galactic+Innovator;Building+the+Universe+of+Backend" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Space+Mono&size=32&duration=3000&pause=500&color=B4C4FF&center=true&vCenter=true&width=700&lines=Java+Cosmonaut+%F0%9F%9A%80;Spring+Boot+Stellar+Architect;Microservices+Galactic+Innovator;Building+the+Universe+of+Backend" alt="Typing SVG" />
 </div>
 
 <br>
@@ -34,7 +34,7 @@ Greetings, interstellar traveler! I'm **Nishint Goyal**, a **Java pioneer** and 
   </a>
 </div>
 
-**UberXBackend**: A galactic-grade backend for a ride-sharing platform, built with **Spring Boot**, **Kafka**, **Docker**, and **PostgreSQL**. It features real-time ride tracking, secure authentication, and a scalable microservices architecture. [Embarky on the journey!](https://github.com/Nishint0001/UberXBackend)
+**UberXBackend**: A galactic-grade backend for a ride-sharing platform, built with **Spring Boot**, **Kafka**, **Docker**, and **PostgreSQL**. It features real-time ride tracking, secure authentication, and a scalable microservices architecture. [Embark on the journey!](https://github.com/Nishint0001/UberXBackend)
 
 ---
 
@@ -80,5 +80,5 @@ Greetings, interstellar traveler! I'm **Nishint Goyal**, a **Java pioneer** and 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0A0E2B,100:6B7280&height=160§ion=footer&animation=twinkling" alt="Footer Banner" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0A0E2B,100:6B7280&height=160&section=footer&animation=twinkling" alt="Footer Banner" />
 </div>
